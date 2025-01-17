@@ -8,7 +8,7 @@ Instead of fighting this ridiculous system, I decided to be cynical and game it 
 
 ### 1. The "Look How Active I Am" Script
 
-I'm not going to push my actual script to GitHub for cyber security purposes, but basically it goes something like this:
+There's any numbers of ways you could set this up, but mine goes a little something like this:
 
 ```bash
 # This beauty updates this README and commits it
@@ -51,3 +51,4 @@ Updated on Thu 16 Jan 2025 05:00:02 PM PST
 Updated on Thu 16 Jan 2025 06:00:01 PM PST
 Updated on Thu 16 Jan 2025 07:00:01 PM PST
 Updated on Thu 16 Jan 2025 08:00:01 PM PST
+Updated on Thu 16 Jan 2025 08:17:32 PM PST
