@@ -22,7 +22,7 @@ All you need is a simple script that:
 - Pushes it to GitHub while you're busy doing actual work
 
 I used an SSH key and systemd to manage the SSH agent.
-Then, I just set up an hourly Cron job and now I watch those green squares keep rolling in like clockwork.
+Then, I just set up a systemd service to run the script, and a systemd timer to trigger the service so now I watch those green squares keep rolling in like clockwork.
 no interruptions - just pure, automated "productivity."
 
 ## The Bottom Line
